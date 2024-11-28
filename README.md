@@ -6,7 +6,7 @@
 ## Hobbies
 
 ### <li><a target="_blank" href="https://wordly.org/">Worlde</a> is one of the best ways I've refreshed my range of vocabs</li>
-### <li>Do not open this <a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">this</a> no matter what!</li>
+### <li>Do not open <a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">this</a> no matter what!</li>
 
 ## Do Invest
 
