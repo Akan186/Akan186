@@ -1,3 +1,13 @@
-<b> Thilakan Jegatheeswaran </b>
+# Thilakan Jegatheeswaran
 
-- ⚡ Fun fact: **Wordle is such a great way to refresh my range of vocabs**
+### "We must accept finite disappointment, but never lose infinite hope." MLK Jr.
+---
+
+## Hobbies
+
+#### <li><a target="_blank" href="https://wordly.org/">Worlde</a> is a one of the best ways I've refreshed by range of vocabs</li>
+#### <li>Do not open this <a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">this</a> no matter what!</li>
+
+## Do Invest
+
+#### <li>Should most definitely look into <a target="_blank" href="https://crypto.com/price/">Crypto</a> since it is a revolutionizing method to make profits</li>
