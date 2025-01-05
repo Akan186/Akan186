@@ -13,19 +13,19 @@
 
 | Lightroom | After Effects | HTML5 |
 |-----------|---------------|-------|
-| ![Lightroom](https://profilinator.rishav.dev/skills-assets/lightroom.png?width=30) | ![After Effects](https://profilinator.rishav.dev/skills-assets/aftereffects.png?width=30) | ![HTML5](https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg?width=30) |
+| ![Lightroom](https://via.placeholder.com/30x30?text=L) | ![After Effects](https://via.placeholder.com/30x30?text=A) | ![HTML5](https://via.placeholder.com/30x30?text=H) |
 
 | Blender | WordPress | Illustrator |
 |---------|-----------|-------------|
-| ![Blender](https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg?width=30) | ![WordPress](https://profilinator.rishav.dev/skills-assets/wordpress.png?width=30) | ![Illustrator](https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg?width=30) |
+| ![Blender](https://via.placeholder.com/30x30?text=B) | ![WordPress](https://via.placeholder.com/30x30?text=W) | ![Illustrator](https://via.placeholder.com/30x30?text=I) |
 
 | Premiere Pro | Unity | Python |
 |--------------|-------|--------|
-| ![Premiere Pro](https://profilinator.rishav.dev/skills-assets/adobepremierepro.png?width=30) | ![Unity](https://profilinator.rishav.dev/skills-assets/unity.png?width=30) | ![Python](https://profilinator.rishav.dev/skills-assets/python-original.svg?width=30) |
+| ![Premiere Pro](https://via.placeholder.com/30x30?text=P) | ![Unity](https://via.placeholder.com/30x30?text=U) | ![Python](https://via.placeholder.com/30x30?text=Py) |
 
 | Photoshop |
 |-----------|
-| ![Photoshop](https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg?width=30) |
+| ![Photoshop](https://via.placeholder.com/30x30?text=Ph) |
 
 ## Connect with me
 
