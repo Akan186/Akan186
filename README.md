@@ -1,8 +1,6 @@
-content = """
-
 ## **Thilakan Jegatheeswaran👨‍💻**
 
-- 🔭 I’m currently working on [GitHub Assignment](https://github.com/MIT-Emerging-Talent/ET6-foundations-group-31.git)
+- 🔭 I’m currently working on a group [GitHub Assignment](https://github.com/MIT-Emerging-Talent/ET6-foundations-group-31.git)
 - 📕: Reading 'All American Boys'
 - ❓ Ask me about the latest technologies
 - ⚡ Fun fact: I love playing [Wordle](https://wordly.org/)
@@ -69,8 +67,5 @@ content = """
 ## Github Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akan186&show_icons=true&count_private=true&hide_border=true)
-"""
 
 # Print the markdown content
-
-print(content)
