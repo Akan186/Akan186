@@ -1,7 +1,7 @@
-# Thilakan Jegatheeswaran 👨‍💻
+## Thilakan Jegatheeswaran 👨‍💻
 
 - 🔭 I’m currently working on a group [GitHub Assignment](https://github.com/MIT-Emerging-Talent/ET6-foundations-group-31.git)
-- 📕: Reading 'All American Boys'
+- 📕 Reading 'All American Boys'
 - ❓ Ask me about the latest technologies
 - ⚡ Fun fact: I love playing [Wordle](https://wordly.org/)
 
