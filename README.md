@@ -5,34 +5,27 @@
 - ❓ Ask me about the latest technologies
 - ⚡ Fun fact: I love playing [Wordle](https://wordly.org/)
 
+---
+
 ## My Skill Set
 
-### Lightroom
+| Lightroom | After Effects | HTML5 | Blender | WordPress |
+|-----------|---------------|-------|---------|-----------|
+| ![Lightroom](https://profilinator.rishav.dev/skills-assets/lightroom.png) | ![After Effects](https://profilinator.rishav.dev/skills-assets/aftereffects.png) | ![HTML5](https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg) | ![Blender](https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg) | ![WordPress](https://profilinator.rishav.dev/skills-assets/wordpress.png) |
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://profilinator.rishav.dev/skills-assets/lightroom.png" width="50" height="50"><br>Lightroom</td>
-      <td><img src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" width="50" height="50"><br>After Effects</td>
-      <td><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" width="50" height="50"><br>HTML5</td>
-      <td><img src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" width="50" height="50"><br>Blender</td>
-      <td><img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" width="50" height="50"><br>WordPress</td>
-    </tr>
-    <tr>
-      <td><img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" width="50" height="50"><br>Illustrator</td>
-      <td><img src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" width="50" height="50"><br>Premiere Pro</td>
-      <td><img src="https://profilinator.rishav.dev/skills-assets/unity.png" width="50" height="50"><br>Unity</td>
-      <td><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" width="50" height="50"><br>Python</td>
-      <td><img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" width="50" height="50"><br>Photoshop</td>
-    </tr>
-  </table>
-</div>
+| Illustrator | Premiere Pro | Unity | Python | Photoshop |
+|-------------|--------------|-------|--------|-----------|
+| ![Illustrator](https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg) | ![Premiere Pro](https://profilinator.rishav.dev/skills-assets/adobepremierepro.png) | ![Unity](https://profilinator.rishav.dev/skills-assets/unity.png) | ![Python](https://profilinator.rishav.dev/skills-assets/python-original.svg) | ![Photoshop](https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg) |
+
+---
 
 ## Connect with me
 
 - [GitHub](https://github.com/Akan186)
 - [Instagram](https://instagram.com/imnotakan)
 - [Facebook](https://www.facebook.com/Thil%20Thilakan)
+
+---
 
 ## GitHub Stats
 
