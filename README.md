@@ -23,7 +23,7 @@
     <td><img src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" width="50" height="50"><br>Premiere Pro</td>
     <td><img src="https://profilinator.rishav.dev/skills-assets/unity.png" width="50" height="50"><br>Unity</td>
     <td><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" width="50" height="50"><br>Python</td>
-    <td><img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg?" width="50" height="50"><br>Photoshop</td>
+    <td><img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" width="50" height="50"><br>Photoshop</td>
   </tr>
 </table>
 </div>
