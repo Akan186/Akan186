@@ -1,5 +1,3 @@
-""
-
 # Define the markdown content as a string in Python
 
 ## **Thilakan Jegatheeswaran👨‍💻**
@@ -35,9 +33,6 @@
 
 ## Github Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akan186&show_icons=true&count_private=true&hide_border=true)
-"""
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akan186&show_icons=true&count_private=true&hide_border=true)s
 
 # Print the markdown content
-
-""
