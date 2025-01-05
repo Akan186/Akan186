@@ -8,7 +8,7 @@ development, design, or any other field of tech.
 
 ## 🚀 What I'm Working On
 
-- I am currently working on a group [GitHub Assignment](https://github.com/MIT-Emerging-Talent/ET6-foundations-group-31.git).
+- [GitHub Assignment](https://github.com/MIT-Emerging-Talent/ET6-foundations-group-31.git)
 - Collaborating with a fantastic team on open-source projects. If you'd like
   to contribute, feel free to reach out!
 
@@ -31,8 +31,10 @@ development, design, or any other field of tech.
 ## 📬 Contact
 
 Feel free to reach out if you'd like to collaborate, chat about tech, or just
-connect. I'm always open to new opportunities and ideas!
+connect. I'm always open to new opportunities and ideas
+
+- Email: [thilakan.stmonica@gmail.com](mailto:thilakan.stmonica@gmail.com)
 
 ---
 
-> **"The only way to do great work is to love what you do." – Steve Jobs**
+> **"The only way to do great work is to love what you do." - Steve Jobs**
