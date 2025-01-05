@@ -1,8 +1,7 @@
+content = """
 ""
 
 ## Define the markdown content as a string in Python
-
-content = """
 
 ## **Thilakan Jegatheeswaran👨‍💻**
 
@@ -40,5 +39,4 @@ content = """
 
 # Print the markdown content
 
-print(content)
 ""
