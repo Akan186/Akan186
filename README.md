@@ -1,4 +1,4 @@
-# thilakan_jegatheeswaran 👨‍💻
+# Thilakan Jegatheeswaran 👨‍💻
 
 Hello! I'm Thilakan! I love exploring new technologies and working on exciting
 projects. I'm always eager to learn and grow, whether it's in software
@@ -24,9 +24,7 @@ development, design, or any other field of tech.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akan186&show_icons=true&count_private=true&hide_border=true" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akan186&show_icons=true&count_private=true&hide_border=true)
 
 ---
 
@@ -37,6 +35,4 @@ connect. I'm always open to new opportunities and ideas!
 
 ---
 
-<p align="center">
-   <b>"The only way to do great work is to love what you do." – Steve Jobs</b>
-</p>
+> **"The only way to do great work is to love what you do." – Steve Jobs**
