@@ -1,64 +1,44 @@
 ""
 
-# **Thilakan Jegatheeswaran👨‍💻**  
-  
-- 🔭 I’m currently working on [GitHub Assignment](https://github.com/MIT-Emerging-Talent/ET6-foundations-group-31.git)  
-  
-- 📕: Reading 'All American Boys'  
-  
-- ❓ Ask me about the latest technologies  
-  
-- ⚡ Fun fact: I love playing [Wordle](https://wordly.org/)  
-  
-<br/>  
+## Define the markdown content as a string in Python
 
-## My Skill Set  
+content = """
 
-<table><tr><td valign="top" width="33%">
+## **Thilakan Jegatheeswaran👨‍💻**
 
-</td><td valign="top" width="33%">
+- 🔭 I’m currently working on [GitHub Assignment](https://github.com/MIT-Emerging-Talent/ET6-foundations-group-31.git)
+- 📕: Reading 'All American Boys'
+- ❓ Ask me about the latest technologies
+- ⚡ Fun fact: I love playing [Wordle](https://wordly.org/)
 
-<div align="center">  
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-</div>
+## My Skill Set
 
-</td><td valign="top" width="33%">
+- [![Lightroom](https://profilinator.rishav.dev/skills-assets/lightroom.png)](https://www.adobe.com/products/photoshop-lightroom.html)
+- [![After Effects](https://profilinator.rishav.dev/skills-assets/aftereffects.png)](https://www.adobe.com/in/products/aftereffects.html)
+- [![GitLab](https://profilinator.rishav.dev/skills-assets/gitlab.svg)](https://about.gitlab.com/)
+- [![HTML5](https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg)](https://en.wikipedia.org/wiki/HTML5)
+- [![Git](https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg)](https://github.com/)
+- [![Blender](https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg)](https://www.blender.org/)
+- [![WordPress](https://profilinator.rishav.dev/skills-assets/wordpress.png)](https://wordpress.com/)
+- [![Illustrator](https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg)](https://www.adobe.com/in/products/illustrator.html)
+- [![Premiere Pro](https://profilinator.rishav.dev/skills-assets/adobepremierepro.png)](https://www.adobe.com/in/products/premiere.html)
+- [![Unity](https://profilinator.rishav.dev/skills-assets/unity.png)](https://unity.com/)
+- [![Python](https://profilinator.rishav.dev/skills-assets/python-original.svg)](https://www.python.org/)
+- [![Photoshop](https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg)](https://www.adobe.com/in/products/photoshop.html)
+- [![PowerShell](https://profilinator.rishav.dev/skills-assets/powershell.png)](https://docs.microsoft.com/en-us/powershell/)
 
-</td></tr></table>  
+## Connect with me
 
-<br/>  
+- [GitHub](https://github.com/Akan186)
+- [Instagram](https://instagram.com/imnotakan)
+- [Facebook](https://www.facebook.com/Thil%20Thilakan)
 
-## Connect with me  
+## Github Stats
 
-<div align="center">
-<a href="https://github.com/Akan186" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/imnotakan" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/Thil Thilakan" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-<br/>  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akan186&show_icons=true&count_private=true&hide_border=true)
+"""
 
-## Github Stats  
+# Print the markdown content
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Akan186&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>
+print(content)
 ""
