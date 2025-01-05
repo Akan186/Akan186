@@ -9,43 +9,24 @@
 
 ### Lightroom
 
-![Lightroom](https://profilinator.rishav.dev/skills-assets/lightroom.png?width=30)
-
-### After Effects
-
-![After Effects](https://profilinator.rishav.dev/skills-assets/aftereffects.png?width=30)
-
-### HTML5
-
-![HTML5](https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg?width=30)
-
-### Blender
-
-![Blender](https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg?width=30)
-
-### WordPress
-
-![WordPress](https://profilinator.rishav.dev/skills-assets/wordpress.png?width=30)
-
-### Illustrator
-
-![Illustrator](https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg?width=30)
-
-### Premiere Pro
-
-![Premiere Pro](https://profilinator.rishav.dev/skills-assets/adobepremierepro.png?width=30)
-
-### Unity
-
-![Unity](https://profilinator.rishav.dev/skills-assets/unity.png?width=30)
-
-### Python
-
-![Python](https://profilinator.rishav.dev/skills-assets/python-original.svg?width=30)
-
-### Photoshop
-
-![Photoshop](https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg?width=30)
+<div align="center">
+<table>
+  <tr>
+    <td><img src="https://profilinator.rishav.dev/skills-assets/lightroom.png" width="50" height="50"><br>Lightroom</td>
+    <td><img src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" width="50" height="50"><br>After Effects</td>
+    <td><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" width="50" height="50"><br>HTML5</td>
+    <td><img src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" width="50" height="50"><br>Blender</td>
+    <td><img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" width="50" height="50"><br>WordPress</td>
+  </tr>
+  <tr>
+    <td><img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" width="50" height="50"><br>Illustrator</td>
+    <td><img src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" width="50" height="50"><br>Premiere Pro</td>
+    <td><img src="https://profilinator.rishav.dev/skills-assets/unity.png" width="50" height="50"><br>Unity</td>
+    <td><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" width="50" height="50"><br>Python</td>
+    <td><img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg?" width="50" height="50"><br>Photoshop</td>
+  </tr>
+</table>
+</div>
 
 ## Connect with me
 
