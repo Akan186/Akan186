@@ -1,4 +1,4 @@
-# Thilakan Jegatheeswaran 👨‍💻
+# thilakan_jegatheeswaran 👨‍💻
 
 Hello! I'm Thilakan! I love exploring new technologies and working on exciting
 projects. I'm always eager to learn and grow, whether it's in software
