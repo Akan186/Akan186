@@ -9,8 +9,6 @@ development, design, or any other field of tech.
 ## 🚀 What I'm Working On
 
 - [GitHub Assignment](https://github.com/MIT-Emerging-Talent/ET6-foundations-group-31.git)
-- Collaborating with a fantastic team on open-source projects. If you'd like
-  to contribute, feel free to reach out!
 
 ---
 
