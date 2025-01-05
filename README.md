@@ -1,4 +1,4 @@
-content = """
+""
 
 # Define the markdown content as a string in Python
 
@@ -11,25 +11,21 @@ content = """
 
 ## My Skill Set
 
-| Lightroom | After Effects | GitLab |
-|-----------|---------------|--------|
-| ![Lightroom](https://profilinator.rishav.dev/skills-assets/lightroom.png) | ![After Effects](https://profilinator.rishav.dev/skills-assets/aftereffects.png) | ![GitLab](https://profilinator.rishav.dev/skills-assets/gitlab.svg) |
+| Lightroom | After Effects | HTML5 |
+|-----------|---------------|-------|
+| ![Lightroom](https://profilinator.rishav.dev/skills-assets/lightroom.png?width=50) | ![After Effects](https://profilinator.rishav.dev/skills-assets/aftereffects.png?width=50) | ![HTML5](https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg?width=50) |
 
-| HTML5 | Git | Blender |
-|-------|-----|---------|
-| ![HTML5](https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg) | ![Git](https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg) | ![Blender](https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg) |
+| Blender | WordPress | Illustrator |
+|---------|-----------|-------------|
+| ![Blender](https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg?width=50) | ![WordPress](https://profilinator.rishav.dev/skills-assets/wordpress.png?width=50) | ![Illustrator](https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg?width=50) |
 
-| WordPress | Illustrator | Premiere Pro |
-|-----------|-------------|--------------|
-| ![WordPress](https://profilinator.rishav.dev/skills-assets/wordpress.png) | ![Illustrator](https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg) | ![Premiere Pro](https://profilinator.rishav.dev/skills-assets/adobepremierepro.png) |
+| Premiere Pro | Unity | Python |
+|--------------|-------|--------|
+| ![Premiere Pro](https://profilinator.rishav.dev/skills-assets/adobepremierepro.png?width=50) | ![Unity](https://profilinator.rishav.dev/skills-assets/unity.png?width=50) | ![Python](https://profilinator.rishav.dev/skills-assets/python-original.svg?width=50) |
 
-| Unity | Python | Photoshop |
-|-------|--------|-----------|
-| ![Unity](https://profilinator.rishav.dev/skills-assets/unity.png) | ![Python](https://profilinator.rishav.dev/skills-assets/python-original.svg) | ![Photoshop](https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg) |
-
-| PowerShell |
-|------------|
-| ![PowerShell](https://profilinator.rishav.dev/skills-assets/powershell.png) |
+| Photoshop |
+|-----------|
+| ![Photoshop](https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg?width=50) |
 
 ## Connect with me
 
